@@ -93,8 +93,10 @@ border: 5px solid blue;
 }
 
 .galeria {
-    
+    text-decoration: none;
     padding: 5px;
+    color: yellow;
+    
   
   
 }
